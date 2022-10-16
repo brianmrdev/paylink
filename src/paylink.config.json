@@ -1,5 +1,5 @@
 {
-  "theme": "swordfish-dark-theme",
+  "theme": "minimalist-dark-theme",
 
   "properties": {
     "name": "Brian Martínez Rodríguez",
@@ -109,13 +109,13 @@
       "img": "./images/payments/xrp.svg"
     },
     {
-      "id": "card",
+      "id": "cardcup",
       "label": "CUP Card",
       "value": "9204-0699-9900-0698",
       "img": "./images/payments/card.svg"
     },
     {
-      "id": "card",
+      "id": "cardmlc",
       "label": "MLC Card",
       "value": "9204-0699-9900-0698",
       "img": "./images/payments/card.svg"
