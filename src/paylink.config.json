@@ -1,20 +1,20 @@
 {
-  "theme": "minimalist-dark-theme",
+  "theme": "swordfish-dark-theme",
 
   "properties": {
-    "name": "Daniel Castillo",
-    "description": "Frontend web developer and tireless creator",
-    "alt": "Photo of Daniel Castillo",
-    "hero": "./images/daniel-castillo.png"
+    "name": "Brian Martínez Rodríguez",
+    "description": "Backend web developer",
+    "alt": "Photo of Brian Martínez Rodríguez",
+    "hero": "./images/brian-martinez-rodriguez.jpeg"
   },
 
   "Social": [
-    { "label": "Email", "value": "bx-envelope", "link": "mailto:dlcastillo3015@gmail.com" },
-    { "label": "Link", "value": "bx-link", "link": "https://danielcastillop.netlify.app" },
-    { "label": "GitHub", "value": "bxl-github", "link": "https://github.com/dlcastillop" },
-    { "label": "Twitter", "value": "bxl-twitter", "link": "https://twitter.com/dlcastillop" },
-    { "label": "LinkedIn", "value": "bxl-linkedin", "link": "https://linkedin.com/in/dlcastillop" },
-    { "label": "Instagram", "value": "bxl-instagram", "link": "https://instagram.com/dlcastillop" },
+    { "label": "Email", "value": "bx-envelope", "link": "mailto:brianmr1128@gmail.com" },
+    { "label": "Link", "value": "bx-link", "link": "https://webdev.cu" },
+    { "label": "GitHub", "value": "bxl-github", "link": "https://github.com/brianmrdev" },
+    { "label": "Twitter", "value": "bxl-twitter", "link": "" },
+    { "label": "LinkedIn", "value": "bxl-linkedin", "link": "https://linkedin.com/in/brianmrdev" },
+    { "label": "Instagram", "value": "bxl-instagram", "link": "" },
     { "label": "Discord", "value": "bxl-discord", "link": "" },
     { "label": "Facebook", "value": "bxl-facebook", "link": "" },
     { "label": "Medium", "value": "bxl-medium", "link": "" },
@@ -33,7 +33,7 @@
     {
       "id": "btc",
       "label": "Bitcoin",
-      "value": "bc1qejahgjmqnmyrw7jvn0d7evfdq6ssjl3wq7hfle",
+      "value": "",
       "img": "./images/payments/btc.svg"
     },
     {
@@ -57,7 +57,7 @@
     {
       "id": "eth",
       "label": "Ethereum",
-      "value": "0x59C864f658caD68A19a97499755080c056079988",
+      "value": "",
       "img": "./images/payments/eth.svg"
     },
     {
@@ -81,7 +81,7 @@
     {
       "id": "qvapay",
       "label": "QvaPay",
-      "value": "https://qvapay.com/payme/dlcastillop",
+      "value": "",
       "img": "./images/payments/qvapay.svg"
     },
     {
@@ -110,8 +110,14 @@
     },
     {
       "id": "card",
-      "label": "Card",
-      "value": "",
+      "label": "CUP Card",
+      "value": "9204-0699-9900-0698",
+      "img": "./images/payments/card.svg"
+    },
+    {
+      "id": "card",
+      "label": "MLC Card",
+      "value": "9204-0699-9900-0698",
       "img": "./images/payments/card.svg"
     }
   ]
